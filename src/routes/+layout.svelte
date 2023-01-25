@@ -9,7 +9,7 @@
 
 					<a
 						role="button"
-						href="#"
+						href=""
 						class="navbar-burger"
 						aria-label="menu"
 						aria-expanded="false"
@@ -23,30 +23,43 @@
 
 				<div id="navbar" class="navbar-menu">
 					<div class="navbar-end">
-						<div class="navbar-item">
-							<a class="button is-main" href="/"> Hjem </a>
+						<a class="navbar-item" href="/"> Hjem </a>
+
+						<div class="navbar-item has-dropdown is-hoverable">
+							<a class="navbar-link is-primary"> Ved dødsfall </a>
+
+							<div class="navbar-dropdown">
+								<a class="navbar-item" href="/seremoni"> Seremoni </a>
+								<a class="navbar-item" href="/forbered-begravelse"> Forbered begravelse </a>
+								<a class="navbar-item" href="/hjelp-ved-dødsfall"> Hjelp ved dødsfall </a>
+							</div>
 						</div>
-						<div class="navbar-item">
-							<a class="button is-main" href="/forbered-begravelse"> Forbered begravelse </a>
+
+						<div class="navbar-item has-dropdown is-hoverable">
+							<a class="navbar-link"> Priser </a>
+
+							<div class="navbar-dropdown">
+								<a class="navbar-item" href="/hva-koster-en-begravelse">Hva koster en begravelse</a>
+								<a class="navbar-item" href="/valg-av-kiste">Valg av kiste</a>
+								<a class="navbar-item" href="/gravferdsmonumenter"> Gravferdsmonumenter </a>
+								<a
+									class="navbar-item"
+									target="_blank"
+									rel="noreferrer"
+									href="http://www.slaatteneblomster.no/"
+								>
+									Blomster
+								</a>
+							</div>
 						</div>
-						<div class="navbar-item">
-							<a class="button is-main" href="/hjelp-ved-dødsfall"> Hjelp ved dødsfall </a>
-						</div>
-						<div class="navbar-item">
-							<a class="button is-main" href="/hva-koster-en-begravelse">
-								Hva koster en begravelse
-							</a>
-						</div>
-						<div class="navbar-item">
-							<a
-								class="button is-main"
-								target="_blank"
-								rel="noreferrer"
-								href="https://olafslaattene.vareminnesider.no/"
-							>
-								Dødsannonser
-							</a>
-						</div>
+						<a
+							class="navbar-item"
+							target="_blank"
+							rel="noreferrer"
+							href="https://olafslaattene.vareminnesider.no/"
+						>
+							Dødsannonser
+						</a>
 					</div>
 				</div>
 			</nav>
@@ -76,9 +89,9 @@
 						<small
 							><p>OLAF SLAATTENE AS</p>
 							<p>Kystveien 151, 4842 Arendal.</p>
-							<p>Telefon: 37 05 91 65 - 926 10 747</p>
-							<p>E-post: kontakt@slaattene.no</p></small
-						>
+							<p>Telefon: 37 05 91 65 - 92 61 07 47</p>
+							<p>E-post: kontakt@slaattene.no</p>
+						</small>
 					</div>
 				</div>
 				<div class="column">
@@ -86,7 +99,7 @@
 
 					<div>
 						<small>
-							<p class="pb-5">Ring oss hele døgnet: 926 10 747</p>
+							<p class="pb-5">Ring oss hele døgnet: 92 61 07 47</p>
 						</small>
 					</div>
 

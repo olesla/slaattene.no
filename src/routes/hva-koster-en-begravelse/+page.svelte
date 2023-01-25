@@ -1,6 +1,6 @@
 <script>
 	//import {formatNumber} from "./../helpers.js"
-	import {formatNumber} from './../../helpers'
+	import { formatNumber } from './../../helpers';
 	const packages = [
 		{
 			title: 'Priseksempel 1',
@@ -154,13 +154,6 @@
 <style scoped>
 	h2 {
 		padding-top: 0.6rem;
-	}
-	p {
-		padding: 0.6rem 0rem;
-	}
-	img {
-		width: 300px !important;
-		height: 98 !important;
 	}
 	td {
 		border: none;

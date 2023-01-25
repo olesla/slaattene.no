@@ -1,3 +1,7 @@
+<script>
+	import Sidebar from "../../components/Sidebar.svelte";
+</script>
+
 <section class="hero is-main">
 	<div class="hero-body is-flex is-justify-content-center">
 		<h1 class="title text-white">Seremoni</h1>
@@ -38,12 +42,7 @@
 				</p>
 			</div>
 			<div class="column">
-				<div class="is-flex is-justify-content-center is-flex-direction-column">
-					<a href="tel:+4792610747" class="button is-medium is-main mb-5"
-						><i class="fa-solid fa-phone pr-2" />Vakttelefon 24t: 92 61 07 47</a
-					>
-					<img class="mt-2" src="/virke-gravferd.jpg" alt="" />
-				</div>
+				<Sidebar></Sidebar>
 			</div>
 		</div>
 	</div>

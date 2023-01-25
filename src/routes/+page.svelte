@@ -31,7 +31,7 @@
 
 <section class="hero is-main">
 	<div class="hero-body is-flex is-justify-content-center">
-		<h1 class="title text-white">VI DEKKER SØRLANDET - DØGNVAKT: 926 10 747</h1>
+		<h1 class="title text-white">VI DEKKER SØRLANDET - DØGNVAKT: 92 61 07 47</h1>
 	</div>
 </section>
 
