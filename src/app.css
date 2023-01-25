@@ -2,7 +2,10 @@
 	--primary: #77003d;
 	--white: #fff;
 }
-html, body { height: 100vh; }
+html,
+body {
+	height: 100vh;
+}
 h2 {
 	font-size: 1.4rem;
 	font-weight: bold;
@@ -16,8 +19,8 @@ a {
 	color: var(--primary);
 }
 .main {
-    flex-grow: 1;
- }
+	flex-grow: 1;
+}
 .list {
 	list-style: inside;
 }

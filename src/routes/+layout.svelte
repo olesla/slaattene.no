@@ -1,5 +1,4 @@
-
-<div class='hero is-fullheight'>
+<div class="hero is-fullheight">
 	<section>
 		<div class="container">
 			<nav class="navbar" aria-label="main navigation">
@@ -7,7 +6,7 @@
 					<a class="navbar-item" href="/">
 						<img class="logo" src="logo.png" alt="laattene.no" />
 					</a>
-	
+
 					<a
 						role="button"
 						href="#"
@@ -21,7 +20,7 @@
 						<span aria-hidden="true" />
 					</a>
 				</div>
-	
+
 				<div id="navbar" class="navbar-menu">
 					<div class="navbar-end">
 						<div class="navbar-item">
@@ -39,45 +38,58 @@
 							</a>
 						</div>
 						<div class="navbar-item">
-							<a class="button is-main" href="/dødsannonser"> Dødsannonser </a>
+							<a
+								class="button is-main"
+								target="_blank"
+								rel="noreferrer"
+								href="https://olafslaattene.vareminnesider.no/"
+							>
+								Dødsannonser
+							</a>
 						</div>
 					</div>
 				</div>
 			</nav>
 		</div>
 	</section>
-	
+
 	<slot />
-	
+
 	<footer class="footer is-main is-flex-align-items-flex-end mt-auto">
 		<div class="container">
 			<div class="columns is-mobile">
 				<div class="column">
 					<h2 class="is-uppercase pb-4">Slaattene Begravelsebyrå</h2>
-	
+
 					<div class="pr-5">
-						Slaattene Begravelsebyrå ble etablert i 1927 og har siden vært det ledende
-						begravelsesbyrået i Arendal og omegn. Vi har bistått familier igjennom vanskelige tider i
-						flere generasjoner. Nå er det 3. generasjon Slaattene som driver byrået. Men tanken er
-						fremdeles den samme: Å skape trygghet og varme i en vanskelig tid.
+						<small
+							>Slaattene Begravelsebyrå ble etablert i 1927 og har siden vært det ledende
+							begravelsesbyrået i Arendal og omegn. Vi har bistått familier igjennom vanskelige
+							tider i flere generasjoner. Nå er det 3. generasjon Slaattene som driver byrået. Men
+							tanken er fremdeles den samme: Å skape trygghet og varme i en vanskelig tid.</small
+						>
 					</div>
 				</div>
 				<div class="column">
 					<h2 class="is-uppercase pb-4">Kontakt oss</h2>
 					<div>
-						<p>OLAF SLAATTENE AS</p>
-						<p>Kystveien 151, 4842 Arendal.</p>
-						<p>Telefon: 37 05 91 65 - 926 10 747</p>
-						<p>E-post: kontakt@slaattene.no</p>
+						<small
+							><p>OLAF SLAATTENE AS</p>
+							<p>Kystveien 151, 4842 Arendal.</p>
+							<p>Telefon: 37 05 91 65 - 926 10 747</p>
+							<p>E-post: kontakt@slaattene.no</p></small
+						>
 					</div>
 				</div>
 				<div class="column">
 					<h2 class="is-uppercase pb-4">Døgnservice</h2>
-	
+
 					<div>
-						<p class="pb-5">Ring oss hele døgnet: 926 10 747</p>
+						<small>
+							<p class="pb-5">Ring oss hele døgnet: 926 10 747</p>
+						</small>
 					</div>
-	
+
 					<h2 class="is-uppercase pb-4 pt-5">Følg oss</h2>
 					<div>
 						<a
@@ -85,16 +97,19 @@
 							title="Facebook"
 							target="_blank"
 							rel="noreferrer"
-							style="border-radius: 35px"><i class="fa-brands fa-facebook" /></a
 						>
+							<i class="fa-brands fa-facebook fa-2xl" />
+						</a>
 					</div>
 				</div>
 			</div>
 		</div>
 	</footer>
-	
 </div>
 
 <style>
 	@import './../app.css';
+	.fa-facebook {
+		color: #fff;
+	}
 </style>

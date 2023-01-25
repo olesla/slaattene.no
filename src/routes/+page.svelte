@@ -76,7 +76,14 @@
 			<a class="button is-main" href="/forbered-begravelse"> Forbered begravelse </a>
 			<a class="button is-main" href="/hjelp-ved-dødsfall"> Hjelp ved dødsfall </a>
 			<a class="button is-main" href="/valg-av-kiste"> Valg av kiste </a>
-			<a class="button is-main" href="/blomster-til-seremoni"> Blomster til seremoni </a>
+			<a
+				class="button is-main"
+				target="_blank"
+				rel="noreferrer"
+				href="http://www.slaatteneblomster.no/"
+			>
+				Blomster til seremoni
+			</a>
 			<a class="button is-main" href="/gravferdsmonumenter"> Gravferdsmonumenter </a>
 		</div>
 	</div>
