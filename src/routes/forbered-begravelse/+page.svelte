@@ -1,5 +1,5 @@
 <script>
-	import Sidebar from "../../components/Sidebar.svelte";
+	import Sidebar from '../../components/Sidebar.svelte';
 </script>
 
 <section class="hero is-main">
@@ -68,7 +68,7 @@
 				</p>
 			</div>
 			<div class="column">
-				<Sidebar></Sidebar>
+				<Sidebar />
 			</div>
 		</div>
 	</div>
