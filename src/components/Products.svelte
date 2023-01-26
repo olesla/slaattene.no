@@ -4,7 +4,7 @@
 </script>
 
 <div
-	class="columns is-variable is-1-mobile is-0-tablet is-8-desktop is-8-widescreen is-2-fullhd is-multiline is-mobile"
+	class="columns is-variable is-1-mobile is-0-tablet is-8-desktop is-8-widescreen is-2-fullhd is-multiline"
 >
 	{#each products as product}
 		<div class="column is-one-quarter">

@@ -1,6 +1,5 @@
 <script>
 	import { page } from '$app/stores';
-	console.log($page.url.pathname);
 </script>
 
 <div class="is-flex is-justify-content-center is-flex-direction-column mb-5">

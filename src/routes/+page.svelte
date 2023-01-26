@@ -93,7 +93,7 @@
 	<div class="container">
 		<h2>Våre ansatte</h2>
 
-		<div class="columns is-multiline">
+		<div class="columns is-mobile is-multiline">
 			{#each employees as employee}
 				<div class="column is-one-fourth">
 					<Employee

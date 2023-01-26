@@ -1,3 +1,13 @@
+<script>
+	import { onMount } from 'svelte';
+
+	onMount(() => {
+		document.querySelector('.navbar-burger').addEventListener('click', () => {
+			document.querySelector('#navbar').classList.toggle('is-active')
+		})
+	});
+</script>
+
 <div class="hero is-fullheight">
 	<section>
 		<div class="container">
@@ -7,9 +17,9 @@
 						<img class="logo" src="logo.png" alt="laattene.no" />
 					</a>
 
+					<!-- svelte-ignore a11y-missing-attribute -->
 					<a
 						role="button"
-						href=""
 						class="navbar-burger"
 						aria-label="menu"
 						aria-expanded="false"
@@ -26,6 +36,7 @@
 						<a class="navbar-item" href="/"> Hjem </a>
 
 						<div class="navbar-item has-dropdown is-hoverable">
+							<!-- svelte-ignore a11y-missing-attribute -->
 							<a class="navbar-link is-primary"> Ved dødsfall </a>
 
 							<div class="navbar-dropdown">
@@ -35,6 +46,7 @@
 							</div>
 						</div>
 
+						<!-- svelte-ignore a11y-missing-attribute -->
 						<div class="navbar-item has-dropdown is-hoverable">
 							<a class="navbar-link"> Priser </a>
 
@@ -70,7 +82,7 @@
 
 	<footer class="footer is-main is-flex-align-items-flex-end mt-auto">
 		<div class="container">
-			<div class="columns is-mobile">
+			<div class="columns">
 				<div class="column">
 					<h2 class="is-uppercase pb-4">Slaattene Begravelsebyrå</h2>
 
