@@ -2,6 +2,14 @@
 	import Sidebar from '../../components/Sidebar.svelte';
 </script>
 
+<svelte:head>
+	<title>Forbered begravelse - Slaattene Begravelsesbyrå</title>
+	<meta name="description" content="Slaattene begravelsesbyrå tilrettelegger for alle typer seremonier/gravferder uansett livssyn. Seremonier utført i regi av den norske kirke, i Arendalsdistriktet, foregår fra en av våre vakre kirker eller i Arendal kapell og krematorium.">
+	<meta property="og:title" content="Forbered begravelse">
+	<meta property="og:description" content="Slaattene begravelsesbyrå tilrettelegger for alle typer seremonier/gravferder uansett livssyn. Seremonier utført i regi av den norske kirke, i Arendalsdistriktet, foregår fra en av våre vakre kirker eller i Arendal kapell og krematorium.">
+	<meta property="og:url" content="https://slaattene.no/forbered-begravelse">
+</svelte:head>
+
 <section class="hero is-main">
 	<div class="hero-body is-flex is-justify-content-center">
 		<h1 class="title text-white">Forbered begravelse</h1>

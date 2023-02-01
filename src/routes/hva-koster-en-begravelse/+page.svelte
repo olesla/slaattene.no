@@ -65,6 +65,14 @@
 	});
 </script>
 
+<svelte:head>
+	<title>Hva koster en begravelse - Slaattene Begravelsesbyrå</title>
+	<meta name="description" content="Hva koster en begravelse hos Slaattene Begravelsesbyrå - Arendal">
+	<meta property="og:title" content="Hva koster en begravelse">
+	<meta property="og:description" content="Hva koster en begravelse hos Slaattene Begravelsesbyrå - Arendal">
+	<meta property="og:url" content="https://slaattene.no/hva-koster-en-begravelse">
+</svelte:head>
+
 <section class="hero is-main">
 	<div class="hero-body is-flex is-justify-content-center">
 		<h1 class="title text-white">Hva koster en begravelse</h1>

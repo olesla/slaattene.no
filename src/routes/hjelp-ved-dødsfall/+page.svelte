@@ -2,6 +2,14 @@
 	import Sidebar from '../../components/Sidebar.svelte';
 </script>
 
+<svelte:head>
+	<title>Hjelp ved dødsfall - Slaattene Begravelsesbyrå</title>
+	<meta name="description" content="Når et menneske dør blir livet forandret for mange. For deg og dine som står nærmest blir forandringen størst. Det kan oppleves kaotisk og vanskelig å ta inn over seg det som har skjedd. Allikevel er det mye som må gjøres, mange som må varsles og en begravelse som skal planlegges.">
+	<meta property="og:title" content="Hjelp ved dødsfall">
+	<meta property="og:description" content="Når et menneske dør blir livet forandret for mange. For deg og dine som står nærmest blir forandringen størst. Det kan oppleves kaotisk og vanskelig å ta inn over seg det som har skjedd. Allikevel er det mye som må gjøres, mange som må varsles og en begravelse som skal planlegges.">
+	<meta property="og:url" content="https://slaattene.no/hjelp-ved-dødsfall">
+</svelte:head>
+
 <section class="hero is-main">
 	<div class="hero-body is-flex is-justify-content-center">
 		<h1 class="title text-white">Hjelp ved dødsfall</h1>

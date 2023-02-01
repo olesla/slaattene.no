@@ -2,9 +2,18 @@
 	import { onMount } from 'svelte';
 
 	onMount(() => {
+		const navbar = document.querySelector('#navbar')
+		
 		document.querySelector('.navbar-burger').addEventListener('click', () => {
-			document.querySelector('#navbar').classList.toggle('is-active')
+			navbar.classList.toggle('is-active')
 		})
+
+		document.querySelectorAll('.navbar-item').forEach(x => {
+			x.addEventListener('click', () => {
+				navbar.classList.remove('is-active')
+			})
+		})
+		
 	});
 </script>
 
@@ -25,7 +34,7 @@
 						aria-expanded="false"
 						data-target="navbar"
 					>
-						<span aria-hidden="true" />x
+						<span aria-hidden="true" />
 						<span aria-hidden="true" />
 						<span aria-hidden="true" />
 					</a>

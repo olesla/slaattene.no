@@ -13,6 +13,14 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Valg av kiste - Slaattene Begravelsesbyrå</title>
+	<meta name="description" content="Kistene som vises , er et utvalg av de kistene vi tilbyr . Noen av modellene kan også leveres etter andre mål og farger. Ønskes mer informasjon om kistene og muligheter, ta kontakt med oss.">
+	<meta property="og:title" content="Valg av kiste">
+	<meta property="og:description" content="Kistene som vises , er et utvalg av de kistene vi tilbyr . Noen av modellene kan også leveres etter andre mål og farger. Ønskes mer informasjon om kistene og muligheter, ta kontakt med oss.">
+	<meta property="og:url" content="https://slaattene.no/valg-av-kiste">
+</svelte:head>
+
 <section class="hero is-main">
 	<div class="hero-body is-flex is-justify-content-center">
 		<h1 class="title text-white">Valg av kiste</h1>

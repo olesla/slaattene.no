@@ -2,6 +2,14 @@
 	import Sidebar from '../../components/Sidebar.svelte';
 </script>
 
+<svelte:head>
+	<title>Seremoni - Slaattene Begravelsesbyrå</title>
+	<meta name="description" content="Begravelse og bisettelse er begge høytideligheter som følge av et dødsfall, og går ofte under den samme betegnelse begravelse. Men det er stor forskjell på de to avskjedene og i de fleste tilfellene er det snakk om en bisettelse. Den avgjørende forskjell er i korthet, hvordan kisten med avdøde håndteres etter sermonieni kirken eller kapellet. Ved en begravelse avsluttes ritualet med, at kisten med avdøde nedsenkesi jorden på en gravplass på kirkegården , mens en bårebil transporterer kisten til et krematorium i forbindelse ved en bisettelse.">
+	<meta property="og:title" content="Seremoni">
+	<meta property="og:description" content="Begravelse og bisettelse er begge høytideligheter som følge av et dødsfall, og går ofte under den samme betegnelse begravelse. Men det er stor forskjell på de to avskjedene og i de fleste tilfellene er det snakk om en bisettelse. Den avgjørende forskjell er i korthet, hvordan kisten med avdøde håndteres etter sermonieni kirken eller kapellet. Ved en begravelse avsluttes ritualet med, at kisten med avdøde nedsenkesi jorden på en gravplass på kirkegården , mens en bårebil transporterer kisten til et krematorium i forbindelse ved en bisettelse.">
+	<meta property="og:url" content="https://slaattene.no/seremoni">
+</svelte:head>
+
 <section class="hero is-main">
 	<div class="hero-body is-flex is-justify-content-center">
 		<h1 class="title text-white">Seremoni</h1>
@@ -15,7 +23,7 @@
 				<h2>Hva er forskjellen og hva skal vi velge?</h2>
 				<p>
 					Begravelse og bisettelse er begge høytideligheter som følge av et dødsfall, og går ofte
-					under den samme betegnelse ’begravelse’. Men det er stor forskjell på de to avskjedene og
+					under den samme betegnelse "begravelse". Men det er stor forskjell på de to avskjedene og
 					i de fleste tilfellene er det snakk om en bisettelse. Den avgjørende forskjell er i
 					korthet, hvordan kisten med avdøde håndteres etter sermonieni kirken eller kapellet. Ved
 					en begravelse avsluttes ritualet med, at kisten med avdøde nedsenkesi jorden på en

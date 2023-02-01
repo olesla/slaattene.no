@@ -29,6 +29,15 @@
 	];
 </script>
 
+
+<svelte:head>
+	<title>Hjem - Slaattene Begravelsesbyrå</title>
+	<meta name="description" content="Slaattene Begravelsebyrå ble etablert i 1927 og har siden vært det ledende begravelsesbyrået i Arendal og omegn. Vi har bistått familier igjennom vanskelige tider i flere generasjoner.">
+	<meta property="og:title" content="Hjem">
+	<meta property="og:description" content="Slaattene Begravelsebyrå ble etablert i 1927 og har siden vært det ledende begravelsesbyrået i Arendal og omegn. Vi har bistått familier igjennom vanskelige tider i flere generasjoner.">
+	<meta property="og:url" content="https://slaattene.no">
+</svelte:head>
+
 <section class="hero is-main">
 	<div class="hero-body is-flex is-justify-content-center">
 		<h1 class="title text-white">VI DEKKER SØRLANDET - DØGNVAKT: 92 61 07 47</h1>
@@ -55,12 +64,10 @@
 			</div>
 			<div class="column">
 				<iframe
-					width="500"
-					height="300"
+					class="video"
 					src="https://www.youtube.com/embed/ePtws5s_dvc"
 					title="Hvorfor velge Slaattene begravelsesbyrå"
-					frameborder="0"
-					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+					allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 					allowfullscreen
 				/>
 			</div>
@@ -107,3 +114,10 @@
 		</div>
 	</div>
 </section>
+
+<style>
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+</style>

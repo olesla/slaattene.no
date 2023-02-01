@@ -13,6 +13,14 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Gravferdsmonumenter - Slaattene Begravelsesbyrå</title>
+	<meta name="description" content="Gravsteinene som vises , er et lite utvalg av de steinene vi tilbyr fra Fevik Steinindustri. Ønskes mer informasjon om gravsteinene og muligheter, ta kontakt med oss.">
+	<meta property="og:title" content="Gravferdsmonumenter">
+	<meta property="og:description" content="Gravsteinene som vises , er et lite utvalg av de steinene vi tilbyr fra Fevik Steinindustri. Ønskes mer informasjon om gravsteinene og muligheter, ta kontakt med oss.">
+	<meta property="og:url" content="https://slaattene.no/gravferdsmonumenter">
+</svelte:head>
+
 <section class="hero is-main">
 	<div class="hero-body is-flex is-justify-content-center">
 		<h1 class="title text-white">Gravferdsmonumenter</h1>
