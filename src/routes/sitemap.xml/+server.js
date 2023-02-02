@@ -45,6 +45,11 @@ export async function GET() {
 			<changefreq>daily</changefreq>
 			<priority>0.7</priority>
 		</url>
+		<url>
+			<loc>https://slaattene.no/priser-etter-opplysningsplikt/</loc>
+			<changefreq>daily</changefreq>
+			<priority>0.7</priority>
+		</url>
 	</urlset>`.trim(),
 		{
 			headers: {

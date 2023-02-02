@@ -14,8 +14,8 @@ const examples = [
 				price: 1800
 			},
 			{
-				name: 'Bårebil med mannskap, 10 km',
-				price: 1980
+				name: 'Bårebil med mannskap, 20 km',
+				price: 2480
 			},
 			{
 				name: 'Nedlegging i kiste',
@@ -48,8 +48,8 @@ const examples = [
 				price: 1800
 			},
 			{
-				name: 'Bårebil med mannskap, 10 km',
-				price: 1980
+				name: 'Bårebil med mannskap, 20 km',
+				price: 2480
 			},
 			{
 				name: 'Assistanse ved seremonien',
@@ -86,12 +86,12 @@ const examples = [
 				price: 1800
 			},
 			{
-				name: 'Bårebil med mannskap, 10 km',
-				price: 1980
+				name: 'Bårebil med mannskap, 20 km',
+				price: 2480
 			},
 			{
-				name: 'Bårebil med mannskap, 10 km',
-				price: 1980
+				name: 'Bårebil med mannskap, 20 km',
+				price: 2480
 			},
 			{
 				name: 'Assistanse ved seremonien',

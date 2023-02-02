@@ -62,7 +62,7 @@
 							<div class="navbar-dropdown">
 								<a class="navbar-item" href="/hva-koster-en-begravelse">Hva koster en begravelse</a>
 								<a class="navbar-item" href="/valg-av-kiste">Valg av kiste</a>
-								<a class="navbar-item" href="/gravferdsmonumenter"> Gravferdsmonumenter </a>
+								<a class="navbar-item" href="/gravferdsmonumenter">Gravferdsmonumenter</a>
 								<a
 									class="navbar-item"
 									target="_blank"
@@ -71,6 +71,8 @@
 								>
 									Blomster
 								</a>
+
+								<a class="navbar-item" href="/priser-etter-opplysningsplikt">Priser etter opplysningsplikt</a>
 							</div>
 						</div>
 						<a
