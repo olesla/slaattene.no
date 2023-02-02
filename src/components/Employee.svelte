@@ -11,7 +11,7 @@
 	<div>E-post: <a href="mailto:{email}">{email}</a></div>
 {/if}
 {#if phone}
-	<div>Telefon: <a href="mailto:{phone}">{phone}</a></div>
+	<div>Telefon: <a href="tel:+47{phone}">{phone}</a></div>
 {/if}
 
 <style>
