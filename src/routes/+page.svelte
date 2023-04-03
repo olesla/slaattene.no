@@ -93,6 +93,15 @@
 			</a>
 			<a class="button is-main" href="/gravferdsmonumenter"> Gravferdsmonumenter </a>
 		</div>
+		<h2>Brosjyrer</h2>
+		<ul class="list">
+			<li>
+				<a href="https://online.pubhtml5.com/sawl/pvst/#p=1" target="_blank" rel="noreferrer">Praktisk orientering om gravferd</a>
+			</li>
+			<li>
+				<a href="https://online.pubhtml5.com/sawl/kmbz/#p=1" target="_blank" rel="noreferrer">Informasjon</a>
+			</li>
+		</ul>
 	</div>
 </section>
 
