@@ -55,9 +55,8 @@
 					<li>Koordinering med prest og kirkekontor</li>
 					<li>Håndtering og bestilling av dødsannonser</li>
 					<li>Dokumenthåndtering er inkludert</li>
-					<li>Klassisk hvit kiste eller urne er inkludert</li>
 					<li>Bestilling av blomster, kranser</li>
-					<li>Nye, moderne og verdige bårebiler.</li>
+					<li>Fine og verdige bårebiler.</li>
 					<li>Vi hjelper med alt det praktiske før, under og etter begravelsen</li>
 					<li>Vi har over 90 års erfaring</li>
 				</ul>
