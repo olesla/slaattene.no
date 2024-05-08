@@ -23,7 +23,7 @@
 			<nav class="navbar" aria-label="main navigation">
 				<div class="navbar-brand">
 					<a class="navbar-item" href="/">
-						<img class="logo" src="logo.png" alt="laattene.no" />
+						<img class="logo" src="logo.png" alt="slaattene.no" />
 					</a>
 
 					<!-- svelte-ignore a11y-missing-attribute -->

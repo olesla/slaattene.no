@@ -145,9 +145,9 @@
                 <td><strong>Honorarer og gebyrer</strong></td>
                 <td></td>
                 <td>Avgiftsfritt honorar</td>
-                <td> kr  1 800,00 </td>
+                <td> kr  2 000,00 </td>
                 <td></td>
-                <td> kr  1 800,00 </td>
+                <td> kr  2 000,00 </td>
                 <td></td>
             </tr>
             <tr>
@@ -163,9 +163,9 @@
                 <td></td>
                 <td></td>
                 <td>Avgiftspliktig honorar</td>
-                <td> kr  1 800,00 </td>
+                <td> kr  2 000,00 </td>
                 <td></td>
-                <td> kr  1 800,00 </td>
+                <td> kr  2 000,00 </td>
                 <td></td>
             </tr>
             <tr>
@@ -199,9 +199,9 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td> kr  17 920,00 </td>
+                <td> kr  18 320,00 </td>
                 <td></td>
-                <td> kr  78 130,00 </td>
+                <td> kr  78 530,00 </td>
                 <td></td>
             </tr>
             <tr>
@@ -280,7 +280,7 @@
                 <td></td>
                 <td></td>
                 <td>Egenandel båretransport</td>
-                <td>kr 2 700,00</td>
+                <td>kr 2 868,00</td>
             </tr>
         </table>
 	</div>

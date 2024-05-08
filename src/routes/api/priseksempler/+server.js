@@ -3,7 +3,7 @@ import { json } from '@sveltejs/kit';
 const examples = [
 	{
 		title: 'Priseksempel 1',
-		description: 'Gravferd i Arendal kapell',
+		description: 'Gravferd i Arendal Gravlund',
 		items: [
 			{
 				name: 'Basis med utstyr',
@@ -11,7 +11,7 @@ const examples = [
 			},
 			{
 				name: 'Administrasjonskostnader',
-				price: 1800
+				price: 2000
 			},
 			{
 				name: 'Bårebil med mannskap, 20 km',
@@ -19,11 +19,11 @@ const examples = [
 			},
 			{
 				name: 'Nedlegging i kiste',
-				price: 850
+				price: 1700
 			},
 			{
 				name: 'Honorar',
-				price: 1800
+				price: 2000
 			}
 		]
 	},
@@ -45,7 +45,7 @@ const examples = [
 			},
 			{
 				name: 'Administrasjonskostnader',
-				price: 1800
+				price: 2000
 			},
 			{
 				name: 'Bårebil med mannskap, 20 km',
@@ -53,21 +53,21 @@ const examples = [
 			},
 			{
 				name: 'Assistanse ved seremonien',
-				price: 1500
+				price: 2000
 			},
 			{
 				name: 'Nedlegging i kiste',
-				price: 850
+				price: 1700
 			},
 			{
 				name: 'Honorar',
-				price: 1800
+				price: 2000
 			}
 		]
 	},
 	{
 		title: 'Priseksempel 3',
-		description: 'Seremoni i kirker, Arendal',
+		description: 'Seremoni i kirker',
 		items: [
 			{
 				name: 'Hvit kiste',
@@ -83,7 +83,7 @@ const examples = [
 			},
 			{
 				name: 'Administrasjonskostnader',
-				price: 1800
+				price: 2000
 			},
 			{
 				name: 'Bårebil med mannskap, 20 km',
@@ -99,11 +99,11 @@ const examples = [
 			},
 			{
 				name: 'Nedlegging i kiste',
-				price: 850
+				price: 1700
 			},
 			{
 				name: 'Honorar',
-				price: 1800
+				price: 2000
 			}
 		]
 	}
